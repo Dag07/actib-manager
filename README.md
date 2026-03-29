@@ -162,4 +162,3 @@ firebase deploy --only functions,hosting
 ---
 
 This project is intended for restricted internal environments only.
-# actib-manager
